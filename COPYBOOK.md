@@ -12,7 +12,7 @@ Variable Name                       | Explanation                     | Value
 fips                                | US County                       | five-digit number (represented as a string)                     
 SCC                                 | Source of pollution             | digit string
 Pollutant                           | Measurement of PM25             | string
-Emissions                           | alount of PM2.5 emitted         | tons
+Emissions                           | amount of PM2.5 emitted         | tons
 Type                                | type of source                  | NON-ROAD, NONPOINT, ON-ROAD and POINT
 Year                                | Year of emission recorded       | 1999, 2002, 2005 and 2008
 
@@ -23,20 +23,20 @@ in the following array :
 
 Variable Name                       | Explanation                     | Value 
 ----------------------------------- | ------------------------------- | -------------:
-SCC                                 | Source of pollution             | From 10100101 to 2260001030 
-SCC                                 | Source of pollution             | digit string
-Short.Name                          | Number of the volunteer         | From 1 to 30
-EI.Sector                           | Number of the volunteer         | From 1 to 30
-Option.Group                        | Number of the volunteer         | From 1 to 30
-Option.Set                          | Number of the volunteer         | From 1 to 30
-SCC.Level.One                       | Number of the volunteer         | From 1 to 30
-SCC.Level.Two                       | Number of the volunteer         | From 1 to 30
-SCC.Level.Three                     | Number of the volunteer         | From 1 to 30
-SCC.Level.Four                      | Number of the volunteer         | From 1 to 30
-Map.To                              | Number of the volunteer         | From 1 to 30
-Last.Inventory.Year                 | Number of the volunteer         | From 1 to 30
-Created_Date                        | Number of the volunteer         | From 1 to 30
-Usage.Notes                         | Number of the volunteer         | From 1 to 30
+SCC                                 | Source of pollution             | five-digit number (represented as a string)  
+Data.Category                       | Category                        | Biogenic, Event, Nonpoint, Nonroad, onroad and point
+Short.Name                          |                                 | 
+EI.Sector                           | Sector                          | 
+Option.Group                        |                                 | 
+Option.Set                          |                                 | 
+SCC.Level.One                       |                                 | 
+SCC.Level.Two                       |                                 | 
+SCC.Level.Three                     |                                 | 
+SCC.Level.Four                      |                                 | 
+Map.To                              |                                 | 
+Last.Inventory.Year                 |                                 | 
+Created_Date                        |                                 | 
+Usage.Notes                         |                                 | 
 
 -----------------------------------------------------------
 
